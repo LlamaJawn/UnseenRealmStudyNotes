@@ -41,8 +41,7 @@
     "/",
     "//source",
     "//source/source/content",
-    "//source/source/docs",
-    "//source/source/docs/source/docs/images"
+    "//source/source/docs"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
