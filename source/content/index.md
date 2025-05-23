@@ -15,7 +15,7 @@ What is Cosmology? Cosmology deals with the nature and purpose of the universe. 
 
 Plato, through the art of _prosopopoeia_, uses Socrates to reframe this not as a dichotomy, but as a spectrum of knowing — what we now call the Analogy of the Divided Line. He begins with imagination (_eikasia_), moves to belief (_pistis_), then to thought (_dianoia_), and finally reaches understanding (_noêsis_). Where the modern mind sees a wall between reason and faith, Plato saw a progression toward what he called _the Good_.
 
-https://www.john-uebersax.com/plato/dividedline.jpg
+![The Divided Line][https://www.john-uebersax.com/plato/dividedline.jpg]
 
 Why bring this up? Science can take us far — up to _dianoia_, the realm of logic, structure, and mathematical precision. But it cannot go beyond that boundary. It is tethered to what can be measured and modeled. As Christians, we live as both body and soul, flesh and spirit — and we are called to inhabit that whole reality, just as Christ did. It is worth noting that The Divided Line is rooted in Ontology, which we will get to, but it has applicability to Cosmology.
 
