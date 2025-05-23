@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/category-folder/Session 01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Session 01"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "a13d06cd2139dd32",
+            "id": "95d89300392916cb",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,8 +84,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -181,8 +180,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a13d06cd2139dd32",
+  "active": "25de7ef6ba7a5b81",
   "lastOpenFiles": [
+    "source/content/category-folder/Session 00.md",
+    "source/content/category-folder/index.md",
+    "source/content/category-folder/Session 01.md",
+    "source/content/index.md",
     "source/docs/images/Divided Line Image1.jpg",
     "Tags"
   ]
