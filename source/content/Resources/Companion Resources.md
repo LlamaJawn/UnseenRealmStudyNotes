@@ -1,10 +1,13 @@
 # Companion Videos 
-[The Unseen Realm Revisited 10 Years Later ][https://www.youtube.com/watch?v=GbtAYC37HCA]
-[The Unseen Realm - Documentary][https://www.youtube.com/watch?v=2QM7anD5vSI]
-[The Unseen Realm Q&A with Michael Heiser and Ben Witherington][https://www.youtube.com/watch?v=oHXLnxlpZ1s]
+![The Unseen Realm Revisited 10 Years Later ][https://www.youtube.com/watch?v=GbtAYC37HCA]
+
+![The Unseen Realm - Documentary][https://www.youtube.com/watch?v=2QM7anD5vSI]
+
+![The Unseen Realm Q&A with Michael Heiser and Ben Witherington][https://www.youtube.com/watch?v=oHXLnxlpZ1s]
 
 # Companion Sites
-[More Unseen Realm - Heiser's Notes][https://www.moreunseenrealm.com/]
+![More Unseen Realm - Heiser's Notes][https://www.moreunseenrealm.com/]
+
 Most of "More Unseen Realm" appears in the edition of Unseen Realm
 
 # Companion Books
