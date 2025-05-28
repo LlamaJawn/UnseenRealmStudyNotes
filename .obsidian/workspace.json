@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Resources/index.md",
+                "file": "source/content/Resources/Companion Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Companion Resources"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "95d89300392916cb",
+            "id": "bc22c1fbb10f7fea",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -182,11 +182,13 @@
   },
   "active": "25de7ef6ba7a5b81",
   "lastOpenFiles": [
-    "source/content/Sessions/index.md",
-    "source/content/Resources/index.md",
-    "source/content/Sessions/Session 01.md",
-    "source/content/Resources",
+    "source/content/Resources/Companion Books.md",
+    "source/content/Resources/Companion Resources.md",
     "source/content/Sessions/Session 00.md",
+    "source/content/Sessions/Session 01.md",
+    "source/content/Resources/index.md",
+    "source/content/Sessions/index.md",
+    "source/content/Resources",
     "source/content/index.md",
     "source/docs/images/Divided Line Image1.jpg",
     "Tags"

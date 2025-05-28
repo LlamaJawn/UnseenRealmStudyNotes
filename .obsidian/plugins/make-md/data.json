@@ -42,7 +42,9 @@
     "//source",
     "//source/source/content",
     "//source/source/docs/source/docs/images",
-    "//source/source/content/source/content/category-folder"
+    "//source/source/content/source/content/category-folder",
+    "//source/source/content/source/content/Resources",
+    "//source/source/content/source/content/Sessions"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
