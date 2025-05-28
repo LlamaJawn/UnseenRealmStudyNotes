@@ -1,7 +1,13 @@
 # Book Study Summer 2025
 ## Primer to Unseen Realm
 It would be a mistake for me to undertake an endeavor without quoting Tolkien. My hope is that this quote serves as a guide post for our journey through the Unseen Realm of the Hebrew Bible.
-	And the ship went out into the High Sea and passed on into the West, until at last on a night of rain Frodo smelled a sweet fragrance on the air and heard the sound of singing that came over the water. And it seemed to him that as in his dream in the house of Bombadil, the grey rain-curtain turned all to silver glass and was rolled back, and he beheld white shores and beyond them a far green country under a swift sunrise. - Tolkien "Return of the King"
+
+---
+
+"And the ship went out into the High Sea and passed on into the West, until at last on a night of rain Frodo smelled a sweet fragrance on the air and heard the sound of singing that came over the water. And it seemed to him that as in his dream in the house of Bombadil, the grey rain-curtain turned all to silver glass and was rolled back, and he beheld white shores and beyond them a far green country under a swift sunrise." - Tolkien "Return of the King"
+
+---
+
 It is this rolling back that we pursue. A revelation of sorts. What is this new destination? One rooted in ancient cosmology and functional ontology. Let's visit this cosmology and ontology before we dive into the book.
 ### The one about Cosmology and Ontology
 
