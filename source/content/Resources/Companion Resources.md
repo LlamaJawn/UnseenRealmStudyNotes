@@ -5,6 +5,8 @@
 
 [The Unseen Realm Q&A with Michael Heiser and Ben Witherington][https://www.youtube.com/watch?v=oHXLnxlpZ1s]
 
+[N.T. Wright on the Unseen Realm & Hesier][https://www.youtube.com/watch?v=StRxlVhjH_0]
+
 # Companion Sites
 [More Unseen Realm - Heiser's Notes][https://www.moreunseenrealm.com/]
 

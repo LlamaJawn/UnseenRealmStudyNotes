@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/Sessions/Session 00.md",
+                "file": "source/content/Sessions/Session 02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 00"
+              "title": "Session 02"
             }
           }
         ]
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "1d7c3e76424d5379",
+            "id": "7b9d62cdff75415a",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -84,7 +84,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -182,10 +183,10 @@
   },
   "active": "25de7ef6ba7a5b81",
   "lastOpenFiles": [
+    "source/content/Sessions/Session 01.md",
+    "source/content/Sessions/Session 02.md",
     "source/content/Resources/Companion Resources.md",
     "source/content/Resources/Companion Books.md",
-    "source/content/Sessions/Session 00.md",
-    "source/content/Sessions/Session 01.md",
     "source/content/Resources/index.md",
     "source/content/Sessions/index.md",
     "source/content/Resources",
